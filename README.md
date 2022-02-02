@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunal470
 - 👀 I’m interested in Bangalore,India
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on interesting Projects
 - 📫 How to reach me - Kunal.ranjan800@gmail.com
 
